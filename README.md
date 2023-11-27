@@ -1,2 +1,3 @@
-# delta-demo
-This is Demo for git &amp; github class 
+# Github-demo
+This is a Demo for the git &amp; github class
+Author: Shivam Sharma
